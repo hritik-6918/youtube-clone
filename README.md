@@ -1,6 +1,6 @@
 # React Youtube Clone
 
-React Youtube Clone project implemented from JSM Media course made with Material UI. Here I used React router, reusable components, utils and many other react features.
+React Youtube Clone project implemented & made with Material UI. Here I used React router, reusable components, utils and many other react features.
 
 # For Live View
 https://youtube-clone-hritik-6918.vercel.app/
